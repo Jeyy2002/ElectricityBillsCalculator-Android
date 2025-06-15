@@ -1,0 +1,6 @@
+<resources>
+    <style name="Base.Theme.ElectricityBillsCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.ElectricityBillsCalculator" parent="Base.Theme.ElectricityBillsCalculator" />
+</resources>
